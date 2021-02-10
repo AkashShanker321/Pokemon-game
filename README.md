@@ -6,3 +6,6 @@ Here, the player (Pikachu) has to cross the grass level and enter the Pokeball s
 
 # Requirements
 To run this project, we recommend you to use Modern browsers such as Google Chrome, Mozilla Firefox. 
+
+# Screenshots
+![screencapture-file-C-Users-asus-Desktop-chess-game-HTML5-canvas-game-POKEMON-index-html-2021-02-10-21_31_54](https://user-images.githubusercontent.com/76723803/107536174-7e914880-6be7-11eb-84ee-e6ef267d743e.png)
